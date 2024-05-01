@@ -1,0 +1,11 @@
+C:\Users\huber\source\repos\Gra\Gra\bin\Debug\Gra.exe.config
+C:\Users\huber\source\repos\Gra\Gra\bin\Debug\Gra.exe
+C:\Users\huber\source\repos\Gra\Gra\bin\Debug\Gra.pdb
+C:\Users\huber\source\repos\Gra\Gra\obj\Debug\Gra.csproj.AssemblyReference.cache
+C:\Users\huber\source\repos\Gra\Gra\obj\Debug\Gra.csproj.SuggestedBindingRedirects.cache
+C:\Users\huber\source\repos\Gra\Gra\obj\Debug\Gra.Form1.resources
+C:\Users\huber\source\repos\Gra\Gra\obj\Debug\Gra.Properties.Resources.resources
+C:\Users\huber\source\repos\Gra\Gra\obj\Debug\Gra.csproj.GenerateResource.cache
+C:\Users\huber\source\repos\Gra\Gra\obj\Debug\Gra.csproj.CoreCompileInputs.cache
+C:\Users\huber\source\repos\Gra\Gra\obj\Debug\Gra.exe
+C:\Users\huber\source\repos\Gra\Gra\obj\Debug\Gra.pdb
